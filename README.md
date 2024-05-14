@@ -1,5 +1,7 @@
 # Coil Winder (Version 1.2)
 
+Fork for use with ISCI3D Project.
+
 This is a Small Coil Winder Project.
 
 1. Structures
